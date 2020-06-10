@@ -1,0 +1,22 @@
+{
+  "name": "thebooks",
+  "version": "1.0.0",
+  "description": "Aplicacao para gerenciamento de livros.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariannesalomao/thebooks.git"
+  },
+  "author": "Marianne Salomao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariannesalomao/thebooks/issues"
+  },
+  "homepage": "https://github.com/mariannesalomao/thebooks#readme"
+}
